@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Gotu&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Thambi+2&display=swap');
+
+#cabecalho{
+    background: #6e71ff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+}
+
+.caixa{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    position: relative;
+    width: 940px;
+}
+
+.item-menu a{
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    font-family: 'Gotu', sans-serif;
+}
+
+#menu-navegacao li{
+    /*para deixar meus elementos um do lado do outro*/
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+#titulo-principal{
+    font-family: 'Gotu', sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.descricao-principal{
+    font-family: 'Baloo Thambi 2', cursive;
+    margin-left: 15px;
+    font-size: 20px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.card li{
+    display: inline-block;
+    text-align: center;
+    width:30%;
+    vertical-align:top;
+    margin-top: 50px;
+    margin-left: 180px;
+    padding: 30px 20px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+
+    /*somando o percentual + pixels*/
+    /*assim consigo deixar meus cars iguais*/
+    box-sizing: border-box;
+}
+
+.card li a{
+    text-decoration: none;
+    
+    /*tirando a cor de link clicado*/
+    color: inherit;
+}
+
+.card li:hover{
+    border-color: #6e71ff;
+
+    /*transformando o cursor em uma mãozinha*/
+    cursor: pointer;
+}
+
+.titulo-card{
+    font-family: 'Gotu', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.imagem-card{
+    width: 70%;
+    height: 70%;
+}
+
+.leitor{
+    width: 50%;
+    height:50%;
+    padding-bottom: 10px;
+}
+
+.alice{
+    border-radius: 50%;
+    width: 50%;
+    height: 50;
+    padding: 10px;
+}
+
+.descricao-card{
+    font-family: 'Baloo Thambi 2', cursive;
+
+}
+
+.netflix{
+    padding-bottom: 5px;
+}
+
+/*estilizando footer com botoes do w3schools*/
+/* Style all font awesome icons */
+
+.rodape{
+    background:  #d3d3d3;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
+
+.copyright{
+    margin-top: 20px;
+    font-family: 'Gotu', sans-serif;
+    color:black;
+    text-align: center;
+    font-weight: bold;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 15px;
+    
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-instagram {
+    background: #3B5998;
+    color: white;
+    border-radius: 50%;
+    margin-left: 45%;
+  }
+  
+  /* Twitter */
+  .fa-linkedin {
+    background: #55ACEE;
+    color: white;
+    border-radius: 50%;
+  }
