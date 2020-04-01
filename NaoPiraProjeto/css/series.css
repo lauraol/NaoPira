@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Gotu&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Thambi+2&display=swap');
+
+#titulo-principal-series{
+    font-family: 'Gotu', sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.descricao-series{
+    font-family: 'Baloo Thambi 2', cursive;
+    margin-left: 15px;
+    font-size: 20px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+#banner-series{
+    width: 100%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#titulo-playlists{
+    font-family: 'Gotu', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.maratonar{
+    margin-bottom: 15px;
+    border-radius: 50%;
+    width: 50%;
+}
