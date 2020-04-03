@@ -12,6 +12,30 @@
     text-align: center;
 }
 
+.perfil{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-left: 43%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+     
+}
+
+.descricao-autora{
+    font-family: 'Baloo Thambi 2', cursive;
+    font-size: 20px;
+    margin-left: 10%;
+    margin-right: 5%;
+    text-align: center;
+ 
+}
+
+.projeto{
+    font-size: 40px;
+    margin-top: 20px;
+}
+
 .descricao-sobre{
     font-family: 'Baloo Thambi 2', cursive;
     margin-left: 15px;
@@ -20,28 +44,7 @@
     text-align: center;
 }
 
-.autora{
-    font-size: 40px;
-    margin-top: 20px;
-}
 
-.perfil{
-    border-radius: 50%;
-    width: 180px;
-    height: 180px;
-    margin-left: 30px;
-    float: left;   
-}
 
-.descricao-autora{
-    font-family: 'Baloo Thambi 2', cursive;
-    font-size: 20px;
-    margin-left: 220px;
- 
-}
-
-.fim{
-    padding-bottom: 20px;
-}
 
 

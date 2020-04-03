@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Gotu&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Thambi+2&display=swap');
+
+
+form{
+    margin:40px 0;
+}
+
+form label{
+    display: block;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: 'Baloo Thambi 2', cursive;
+    margin-left: 5%;
+}
+
+.input-padrao{
+    display: block;
+    margin-bottom: 20px;
+    padding: 10px 25px;
+    margin-top: 5px;
+    margin-left: 5%;
+    width: 50%;
+}
+
+.checkbox{
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.botao{
+    margin-left: 5%;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none;
+    width: 10%;
+    cursor: pointer;
+    color: #6e71ff;
+    font-weight: bold;
+    background-attachment: #c3c3c3;
+
+}
+
+.botao:hover{
+    color: white;
+    background:#6e71ff ;
+    border-color: #6e71ff;
+
+}
