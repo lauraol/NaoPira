@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Gotu&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Thambi+2&display=swap');
+
+
+.titulo-escolha{
+    font-family: 'Gotu', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.livro{
+    margin-bottom: 20px;
+}
+
+.banner-livros{
+    background: #6e72df;
+}
+
+.imagem-livros{
+    margin-left: 20%;
+}
+
+.leitura-academica{
+    border-radius: 50%;
+    width: 50%;
+    height:50%;
+    padding-bottom: 10px;
+}
+
+.leitura-quarentena{
+    border-radius: 50%;
+    width: 50%;
+    height:50%;
+    padding-bottom: 10px;
+}
+
