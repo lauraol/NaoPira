@@ -1,0 +1,35 @@
+.programacao-desc{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 20px;
+}
+
+.banner-programacao{
+  margin-left: 23%;
+}
+
+.banner{
+    background: #ffd2ee;
+}
+
+.titulo-escolha{
+    font-family: 'Gotu', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+  
+}
+
+.saga{
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+   padding-bottom: 10px;
+}
+
+.dicas{
+    width: 55%;
+    height: 55%;
+    padding-bottom: 10px;
+}

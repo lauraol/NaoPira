@@ -16,12 +16,17 @@ form label{
 }
 
 .input-padrao{
+    font-family: 'Baloo Thambi 2', cursive;
     display: block;
     margin-bottom: 20px;
     padding: 10px 25px;
     margin-top: 5px;
     margin-left: 5%;
     width: 50%;
+    font-size: 15px;
+}
+textarea{
+    resize: none;
 }
 
 .checkbox{
