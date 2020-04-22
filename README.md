@@ -1,2 +1,2 @@
 # NaoPira
-Site criado para aplicar os conhecimentos adquiridos sobre html, css e javascript.
+Páginas estáticas criadas para aplicar os conhecimentos adquiridos em html5 e css3
