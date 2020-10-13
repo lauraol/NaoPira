@@ -10,4 +10,5 @@ O projeto consiste em páginas estáticas criadas em **HTML5** e **CSS3**.
 ## Link da aplicação deployada
 
 Você pode dar uma olhadinha no site clicando no link abaixo:
+
 https://naopira.vercel.app/ 
