@@ -7,7 +7,7 @@ O projeto "Não Pira" foi criado durante o começo da quarentena por conta do CO
 **Tecnologias:**
 O projeto consiste em páginas estáticas criadas em **HTML5** e **CSS3**. 
 
-## Link da aplicação deployada
+## Link deploy da aplicação
 
 Você pode dar uma olhadinha no site clicando no link abaixo:
 
